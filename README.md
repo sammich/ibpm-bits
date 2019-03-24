@@ -6,5 +6,5 @@ Most of the items here should have an accompanying link to a blog post of mine.
 
 ## Where you can find me
 
-[@bpmsam](https://twitter.com/bpmsam)
-[DeveloperWorks](https://developer.ibm.com/answers/users/250193/samuel-chan/)
+ - [@bpmsam](https://twitter.com/bpmsam)
+ - [DeveloperWorks](https://developer.ibm.com/answers/users/250193/samuel-chan/)
